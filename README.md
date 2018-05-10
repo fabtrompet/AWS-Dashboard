@@ -11,7 +11,7 @@ informing
 	3. Default region name 
 
 #how get informing
-	[example](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_credentials_access-keys.html "texto")	
+	[Gerenciamento de chaves de acesso para usuários do IAM](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_credentials_access-keys.html "link")
 
 #run server port default 8000
 python manage.py runserver
