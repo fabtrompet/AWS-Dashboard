@@ -6,9 +6,9 @@ aws configure
 
 informing 
 
-*AWS Access Key ID, 
-*AWS Secret Access Key
-*Default region name 
+	1. AWS Access Key ID, 
+	2. AWS Secret Access Key
+	3. Default region name 
 
 #run server port default 8000
 python manage.py runserver
