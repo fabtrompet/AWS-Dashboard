@@ -1,0 +1,5 @@
+python3.5 #sudo apt-get install python3.5
+pip # sudo apt-get install python3-pip
+django # pip install Django
+awscli # pip install awscli
+

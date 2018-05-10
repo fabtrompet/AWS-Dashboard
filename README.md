@@ -6,3 +6,6 @@
 # ex: python manage.py runserver 80
 
 python manage.py runserver
+
+usuario: admin
+senha: admin
