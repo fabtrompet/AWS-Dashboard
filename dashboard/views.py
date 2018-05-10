@@ -1,9 +1,7 @@
 from django.shortcuts import render, redirect
-
 import os, json
 import time
 from django.http import JsonResponse
-
 from django.http import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 
