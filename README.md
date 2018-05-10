@@ -10,6 +10,9 @@ informing
 	2. AWS Secret Access Key
 	3. Default region name 
 
+#how get informing
+	[example](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_credentials_access-keys.html "texto")	
+
 #run server port default 8000
 python manage.py runserver
 
