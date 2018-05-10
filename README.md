@@ -19,5 +19,5 @@ ex: python manage.py runserver 80
 
 #web
 
-usuario: admin
-senha: admin
+	usuario: admin
+	senha: admin
