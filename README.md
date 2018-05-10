@@ -1,11 +1,23 @@
 # AWS-Dashboard
 
-# run server port default 8000
+#first in shell execute
 
-# Other port
-# ex: python manage.py runserver 80
+aws configure
 
+informing 
+
+*AWS Access Key ID, 
+*AWS Secret Access Key
+*Default region name 
+
+#run server port default 8000
 python manage.py runserver
+
+
+#Other port
+ex: python manage.py runserver 80
+
+#web
 
 usuario: admin
 senha: admin
